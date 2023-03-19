@@ -22,7 +22,7 @@ const userInfo = computed(() => userStore.userInfo)
         />
       </template>
       <template v-else>
-        <NAvatar size="large" round :src="http://lacrimosa.cn/static/oss/avatar.jpg" />
+        <NAvatar size="large" round :src="defaultAvatar" />
       </template>
     </div>
     <div class="flex-1 min-w-0 ml-2">
