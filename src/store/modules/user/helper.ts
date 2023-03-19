@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'http://lacrimosa.cn/static/oss/avatar.jpg',
-      name: 'ferch',
-      description: 'Star on <a href="http://blog.lacrimosa.cn/" class="text-blue-500" target="_blank" >blog</a>',
+      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
+      name: 'ChenZhaoYu',
+      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
 }
