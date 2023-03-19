@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'http://lacrimosa.cn/static/oss/avatar.jpg',
+      avatar: 'https://i.ibb.co/VqbhCmM/IMG-3385.jpg',
       name: 'ferch',
       description: 'Star on <a href="http://blog.larcimosa.cn" class="text-blue-500" target="_blank" >blog</a>',
     },
