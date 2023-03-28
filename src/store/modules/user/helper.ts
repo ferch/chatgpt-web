@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://i.ibb.co/VqbhCmM/IMG-3385.jpg',
-      name: 'ferch',
+      name: 'Lacrimosa',
       description: 'Star on <a href="http://blog.larcimosa.cn" class="text-blue-500" target="_blank" >blog</a>',
     },
   }
