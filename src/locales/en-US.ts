@@ -25,7 +25,7 @@ export default {
     success: 'Success',
     failed: 'Failed',
     verify: 'Verify',
-    unauthorizedTips: 'Unauthorized, please verify first.',
+    unauthorizedTips: 'Unauthorized, please verify first. please contact wechat: "lacrimosa_cn" to get password',
   },
   chat: {
     placeholder: 'Ask me anything...(Shift + Enter = line break)',
